@@ -28,5 +28,10 @@ Portal box is built on the efforts to Bucknell Staff, Students, and Volunteers i
 - Evan Harrington
 - Tom Egan
 - Axel Andrews
+- Colton Jiorle
+- Kevin Duong
+- Aidan Flynn
+- James Powick
+- Peter Beaudette
 - Eli Foster
 - Aiden Cherniske
